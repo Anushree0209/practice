@@ -1,5 +1,4 @@
-sample2 is ready
-:wq
+sample2 is ready
 
 
 
