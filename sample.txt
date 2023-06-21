@@ -1,0 +1,5 @@
+<<<<<<< Updated upstream
+git stash list
+=======
+git stash
+>>>>>>> Stashed changes
